@@ -18,7 +18,7 @@ It can greet you, search Wikipedia, open websites, play music, tell the time, an
 ---
 
 ## 📂 Project Structure
-├── zira.py # Main assistant code
+├── voice.py # Main assistant code
 ├── requirements.txt # Python dependencies
 └── README.md # Documentation
 
@@ -38,7 +38,7 @@ source .venv/bin/activate   # On Linux/Mac
 pip install -r requirements.txt
 
 ### 4. Run the assistant
-python zira.py
+python voice.py
 
 📝 Usage
 
